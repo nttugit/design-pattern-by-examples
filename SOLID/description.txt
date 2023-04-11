@@ -1,0 +1,13 @@
+nttu notes for this
+https://www.notion.so/skills-fc7ba30a26164fcfacee844727b811ae?pvs=4#ee56b468f8e74c3499f356104e3b596b
+
+SOLID
+    - Single Responsibility Principle (phổ biến)
+    - Open / Closed Principle (phổ biến)
+    - Liskov Substitution Principle
+    - Interface Segregation Principle
+    - Dependency Inversion Principle
+
+# Ưu điểm
+
+# Nhược điểm
