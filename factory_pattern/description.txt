@@ -1,0 +1,9 @@
+Factory patterns includes: Simple factory pattern, Factory method pattern and abstract factory pattern
+
+# Ưu, nhược điểm
+- Simple factory pattern:
+    Ưu điểm:
+        + Tách biệt tạo và sử dụng đối tượng
+    Nhược điểm:
+        + Hàm nếu hàm sử dụng đối tượng không hoạt động -> ảnh hưởng hệ thống, 
+        ví dụ hàm getTransport muốn mở rộng thì phải sửa hàm getTransport
